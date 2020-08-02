@@ -122,6 +122,8 @@ img {
 
 .header .logo {
   margin-right: 85px;
+
+  animation-duration: 3000ms;
 }
 
 /* Navigation */
@@ -575,6 +577,9 @@ img {
   margin-left: 10px;
 
   fill: var(--title-dark-theme-color);
+
+  animation-duration: 5000ms;
+  animation-iteration-count: infinite;
 }
 
 /* Альтернативний варіант додавання іконки через псевдоелемент та background-image */
